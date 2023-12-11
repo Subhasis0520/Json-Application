@@ -1,0 +1,12 @@
+
+{
+	"id": 101,
+	"name": "Sudip",
+	"gender": "Male",
+	"address": {
+		"city": "Kolkata",
+		"state": "WB",
+		"pincode": 700001
+	},
+	"phone": 8170098
+}
